@@ -1,0 +1,37 @@
+[IMAGE1]
+NAME1=Win10 Oprekin 22h2 4170
+LINK1=
+IMGNAME= Win10 Opr 22h2 4170.vhd
+IMGLNK=https://www.mediafire.com/file/bqt7lwpbcsoj2ht/CCBOOT_VHD4170%255BPublicRelease%255D.rar/file
+pass=agaxent2024 
+[IMAGE2]
+NAME2=Win10 Oprekin 22h2 4291 Lite
+LINK2=https://drive.google.com/file/d/1AhYnzEkpFCPlwtYvWtOyOLnllQgiIby7/view
+IMGNAME=Win10 Opr 22h2 4291.vhd
+IMGLNK=
+pass=oprekin.com_win10pro-22H2
+[IMAGE3]
+NAME3=Win10 Oprekin 22h2 4291 Lite Plus
+LINK3=https://drive.google.com/file/d/1VAoXHsGUHIau-hB8jbLXQvhACdSHdW0Y/view
+IMGNAME=Win10 Opr 22h2 4291.vhd
+IMGLNK=
+pass=oprekin.com_win10pro-22H2_LP
+[IMAGE4]
+NAME4=Office 2013-2016 Install.iso
+LINK4=http://www.mediafire.com/file/ji3bemrvmavvpx7/Office+2013-2016+Install.iso/file?fbclid=IwZXh0bgNhZW0CMTAAAR2x5FTFxMcudbTYEAgte5QR7Qxmxbn7aHDgyNd6rnaafFpBZX-JchGk4vA_aem_ASiI0WP4kUi6RftomGqHkty8RkbtwjWH7-t_G5WaceZHlp5NmyMaPC9ZZ8iZjert5CGxxyfYIsfzfg-nO0Bxi4iW
+IMGNAME= Oprekin Win10 22h2 4412.vhd
+IMGLNK=https://www.mediafire.com/file/43ha6glos09sxbj/Oprekin_win10_4412.rar/file
+pass=
+[IMAGE5]
+NAME5=Win10 Oprekin 22H2 4412
+LINK5=https://drive.google.com/file/d/1_5G_ufT7XPXQYN19JF3PBzTEVP4B5peB/view?fbclid=IwZXh0bgNhZW0CMTAAAR12DxgkGyT6kUwfx8qQ64Zfa701HAc20bwlzz6cN0nah5m09lqP8nhNhvA_aem_AToeEjRbIdjYQ8bN0WhZV3ap6AmYj_at5ojJxyWHKmPwzSvu6qda7pQATui88AlmA9hTN6AdeNmzYxpGKhhZ0Man
+IMGNAME= W10_OPR_5011.vhd
+IMGLNK=https://www.mediafire.com/file/jkhb4erjm5nthnb/W10_OPR_5011.7z/file?fbclid=IwY2xjawH2mohleHRuA2FlbQIxMAABHZ3-z0BnH0_ndC1lYD55FkV14Fnv6Ox7KezhxuXYEovN6MlFnwZjckX14g_aem_lzBCZcwOBz-zH4x7_-nuKQ
+pass=agaxent
+[IMAGE6]
+NAME6= CCBOOT 2019 ISO NON UEFI
+LINK6=https://www.mediafire.com/file/smq7kwwdoz2axsg/AGAXENT_CCBOOT2019.iso/file
+IMGNAME= Win10Pro_22H2.4529_oprekin.iso
+IMGLNK= https://drive.google.com/file/d/1DrLUhZLDzMQpMZsEJ7XVi1wryn0Gd3qj/view
+pass=agaxent
+
