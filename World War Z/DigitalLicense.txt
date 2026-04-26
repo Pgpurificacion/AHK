@@ -1,0 +1,2 @@
+[License]
+Agaton1986=Activated
