@@ -5,8 +5,8 @@ IMGNAME= Win10 Opr 22h2 4170.vhd
 IMGLNK=https://www.mediafire.com/file/bqt7lwpbcsoj2ht/CCBOOT_VHD4170%255BPublicRelease%255D.rar/file
 pass=agaxent2024 
 [IMAGE2]
-NAME2=Win10 Oprekin 22h2 4291 Lite
-LINK2=https://drive.google.com/file/d/1AhYnzEkpFCPlwtYvWtOyOLnllQgiIby7/view
+NAME2=Win10Pro_22H2.4529_oprekin.iso
+LINK2= https://drive.google.com/file/d/1DrLUhZLDzMQpMZsEJ7XVi1wryn0Gd3qj/view
 IMGNAME=Win10 Opr 22h2 4291.vhd
 IMGLNK=
 pass=oprekin.com_win10pro-22H2
@@ -31,6 +31,6 @@ pass=agaxent
 [IMAGE6]
 NAME6= CCBOOT 2019 ISO NON UEFI
 LINK6=https://www.mediafire.com/file/smq7kwwdoz2axsg/AGAXENT_CCBOOT2019.iso/file
-IMGNAME= Win10Pro_22H2.4529_oprekin.iso
-IMGLNK= https://drive.google.com/file/d/1DrLUhZLDzMQpMZsEJ7XVi1wryn0Gd3qj/view
+IMGNAME= SYNX WIN10 LEGACY IMAGE
+IMGLNK= https://mega.nz/file/I3c3CZjK#PldCpBCXplFkLG_PfvZcy5w6C-hNokrWedcc0fyKt78
 pass=agaxent
